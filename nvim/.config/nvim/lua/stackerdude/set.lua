@@ -30,3 +30,5 @@ vim.opt.updatetime = 50
 
 vim.opt.colorcolumn = "80"
 vim.o.statuscolumn = "%s %l %r "
+vim.opt.spelllang = 'en_us'
+vim.opt.spell = true
